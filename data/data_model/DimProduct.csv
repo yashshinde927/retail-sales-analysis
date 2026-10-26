@@ -1,0 +1,30 @@
+Product_ID,Product_Name,Category,Unit_Price,Product_Performance
+P001,Office Chair,Furniture,228.35,Top Performer
+P002,Bookcase,Furniture,142.67,Average Performer
+P003,Standing Desk,Furniture,481.82,Top Performer
+P004,Filing Cabinet,Furniture,142.76,Average Performer
+P005,Sofa,Furniture,337.67,Top Performer
+P006,Coffee Table,Furniture,177.32,Average Performer
+P007,Laptop,Technology,944.74,Top Performer
+P008,Smartphone,Technology,682.34,Top Performer
+P009,Wireless Mouse,Technology,10.82,Under Performer
+P010,Keyboard,Technology,39.77,Under Performer
+P011,Monitor,Technology,216.41,Top Performer
+P012,Printer,Technology,247.55,Top Performer
+P013,Headphones,Technology,105.48,Average Performer
+P014,Notebook Pack,Office Supplies,10.4,Under Performer
+P015,Pen Set,Office Supplies,5.1,Under Performer
+P016,Stapler,Office Supplies,6.27,Under Performer
+P017,Paper Ream,Office Supplies,10.55,Under Performer
+P018,Binder,Office Supplies,2.38,Under Performer
+P019,Desk Organizer,Office Supplies,19.24,Average Performer
+P020,T-Shirt,Clothing,18.0,Average Performer
+P021,Jeans,Clothing,57.9,Average Performer
+P022,Jacket,Clothing,72.23,Average Performer
+P023,Sneakers,Clothing,117.36,Top Performer
+P024,Dress,Clothing,87.52,Average Performer
+P025,Mixer Grinder,Home & Kitchen,92.27,Average Performer
+P026,Cookware Set,Home & Kitchen,63.36,Average Performer
+P027,Dinner Set,Home & Kitchen,55.34,Average Performer
+P028,Vacuum Cleaner,Home & Kitchen,67.01,Average Performer
+P029,Air Fryer,Home & Kitchen,61.2,Average Performer

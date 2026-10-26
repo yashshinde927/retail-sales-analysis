@@ -1,0 +1,749 @@
+Customer_ID,Customer_Name,Customer_Segment,Customer_Region,Customer_Value_Segment,Customer_Type
+C1000,Divya Mehta,Corporate,West,Low Value,Repeat
+C1001,Suresh Mehta,Consumer,South,High Value,Repeat
+C1002,Anita Kulkarni,Consumer,South,Medium Value,Repeat
+C1003,Rohan Iyer,Consumer,South,High Value,One-time
+C1004,Suresh Reddy,Corporate,West,Low Value,One-time
+C1005,Priya Das,Consumer,Unknown,Low Value,Repeat
+C1006,Amit Singh,Consumer,North,High Value,Repeat
+C1007,Kavya Patil,Home Office,Central,High Value,Repeat
+C1008,Karan Das,Corporate,North,Medium Value,Repeat
+C1009,Anita Singh,Consumer,Central,Medium Value,Repeat
+C1011,Pooja Das,Home Office,South,Low Value,Repeat
+C1012,Rahul Nair,Corporate,West,Low Value,Repeat
+C1013,Karan Mehta,Corporate,North,Medium Value,Repeat
+C1014,Priya Iyer,Consumer,South,Medium Value,Repeat
+C1015,Amit Nair,Consumer,South,Medium Value,Repeat
+C1016,Rohan Nair,Consumer,South,Medium Value,Repeat
+C1019,Sneha Mehta,Consumer,West,Medium Value,Repeat
+C1021,Neha Singh,Home Office,East,Medium Value,Repeat
+C1022,Amit Sharma,Corporate,South,Medium Value,Repeat
+C1023,Amit Nair,Consumer,South,Medium Value,Repeat
+C1024,Amit Joshi,Consumer,North,Medium Value,Repeat
+C1025,Kavya Mehta,Consumer,Central,Medium Value,Repeat
+C1027,Arjun Das,Consumer,West,Low Value,One-time
+C1028,Arjun Khan,Consumer,East,Low Value,Repeat
+C1029,Aarav Patil,Corporate,East,Low Value,One-time
+C1030,Sneha Patil,Home Office,East,Medium Value,Repeat
+C1031,Kavya Mehta,Home Office,East,High Value,Repeat
+C1032,Karan Das,Consumer,South,Low Value,One-time
+C1033,Neha Khan,Consumer,North,Low Value,Repeat
+C1034,Priya Nair,Consumer,North,Low Value,One-time
+C1035,Meera Joshi,Consumer,Central,Medium Value,Repeat
+C1036,Meera Khan,Consumer,East,Low Value,One-time
+C1038,Amit Iyer,Corporate,North,Medium Value,Repeat
+C1040,Anita Das,Home Office,North,Medium Value,Repeat
+C1041,Pooja Singh,Consumer,South,High Value,Repeat
+C1042,Vikram Reddy,Consumer,North,High Value,Repeat
+C1043,Pooja Gupta,Consumer,North,Medium Value,Repeat
+C1045,Neha Sharma,Consumer,South,Low Value,Repeat
+C1046,Neha Iyer,Home Office,East,Medium Value,Repeat
+C1048,Rohan Joshi,Consumer,South,Medium Value,Repeat
+C1049,Rahul Khan,Corporate,East,Medium Value,Repeat
+C1050,Arjun Nair,Consumer,North,Medium Value,Repeat
+C1051,Pooja Joshi,Corporate,Central,Medium Value,Repeat
+C1053,Rohan Nair,Corporate,West,Low Value,Repeat
+C1054,Anita Singh,Consumer,South,Medium Value,Repeat
+C1055,Anita Sharma,Consumer,North,Medium Value,Repeat
+C1056,Priya Patil,Corporate,Central,Medium Value,Repeat
+C1057,Amit Mehta,Home Office,South,Low Value,Repeat
+C1058,Divya Das,Consumer,North,Low Value,Repeat
+C1059,Divya Patil,Corporate,South,Medium Value,Repeat
+C1060,Suresh Khan,Consumer,West,Medium Value,Repeat
+C1061,Pooja Patil,Consumer,West,High Value,Repeat
+C1062,Kavya Mehta,Consumer,West,Medium Value,Repeat
+C1063,Kavya Das,Corporate,West,Medium Value,One-time
+C1064,Rahul Reddy,Consumer,North,Medium Value,Repeat
+C1065,Sneha Iyer,Corporate,Central,Medium Value,Repeat
+C1066,Karan Joshi,Consumer,South,Low Value,One-time
+C1067,Meera Reddy,Home Office,West,Medium Value,One-time
+C1068,Pooja Patil,Corporate,North,Medium Value,Repeat
+C1070,Anita Kulkarni,Consumer,South,Medium Value,Repeat
+C1073,Kavya Iyer,Consumer,North,High Value,Repeat
+C1074,Amit Kulkarni,Consumer,North,Low Value,Repeat
+C1075,Vikram Nair,Consumer,West,Medium Value,Repeat
+C1076,Vikram Mehta,Corporate,South,Medium Value,Repeat
+C1077,Amit Das,Consumer,Central,Medium Value,Repeat
+C1078,Divya Iyer,Consumer,South,Low Value,One-time
+C1079,Priya Patil,Home Office,West,High Value,Repeat
+C1081,Rahul Das,Corporate,West,High Value,Repeat
+C1082,Divya Singh,Consumer,East,Medium Value,Repeat
+C1084,Amit Khan,Home Office,Central,Medium Value,One-time
+C1086,Kavya Gupta,Corporate,North,High Value,Repeat
+C1088,Kavya Mehta,Consumer,West,High Value,Repeat
+C1089,Unknown,Consumer,North,Medium Value,One-time
+C1090,Vikram Joshi,Consumer,South,High Value,Repeat
+C1091,Rahul Joshi,Consumer,Central,Medium Value,Repeat
+C1092,Priya Joshi,Consumer,West,Low Value,Repeat
+C1093,Karan Patil,Consumer,Central,High Value,Repeat
+C1094,Amit Reddy,Consumer,East,Low Value,Repeat
+C1095,Amit Sharma,Consumer,West,Medium Value,One-time
+C1098,Unknown,Corporate,South,Low Value,One-time
+C1099,Karan Patil,Consumer,West,Medium Value,One-time
+C1100,Rahul Joshi,Corporate,South,Low Value,One-time
+C1101,Amit Singh,Corporate,East,Medium Value,Repeat
+C1102,Vikram Kulkarni,Consumer,West,High Value,Repeat
+C1103,Pooja Khan,Consumer,East,High Value,Repeat
+C1104,Kavya Reddy,Consumer,Central,Medium Value,Repeat
+C1107,Rahul Kulkarni,Home Office,South,Low Value,Repeat
+C1108,Rohan Das,Consumer,South,High Value,Repeat
+C1109,Kavya Nair,Corporate,South,Medium Value,One-time
+C1110,Priya Sharma,Consumer,North,Low Value,One-time
+C1111,Vikram Das,Corporate,North,Medium Value,Repeat
+C1112,Karan Das,Corporate,West,Medium Value,Repeat
+C1113,Kavya Kulkarni,Consumer,West,Medium Value,Repeat
+C1115,Arjun Das,Corporate,North,High Value,Repeat
+C1116,Amit Iyer,Home Office,South,Medium Value,Repeat
+C1117,Pooja Iyer,Consumer,North,Medium Value,Repeat
+C1119,Neha Das,Consumer,West,High Value,Repeat
+C1120,Vikram Sharma,Corporate,South,Medium Value,One-time
+C1121,Anita Nair,Corporate,West,Medium Value,One-time
+C1122,Aarav Gupta,Corporate,North,Medium Value,Repeat
+C1123,Arjun Patil,Corporate,South,High Value,Repeat
+C1124,Vikram Khan,Home Office,North,Medium Value,Repeat
+C1126,Karan Mehta,Consumer,West,Medium Value,Repeat
+C1127,Priya Iyer,Corporate,Central,Medium Value,One-time
+C1128,Sneha Joshi,Consumer,North,Medium Value,Repeat
+C1129,Divya Mehta,Consumer,East,Medium Value,Repeat
+C1131,Anita Patil,Corporate,Central,Low Value,One-time
+C1132,Meera Gupta,Home Office,East,High Value,Repeat
+C1134,Sneha Sharma,Consumer,West,Low Value,One-time
+C1135,Rahul Khan,Consumer,South,High Value,Repeat
+C1136,Arjun Reddy,Consumer,Central,High Value,Repeat
+C1137,Vikram Nair,Consumer,South,Medium Value,Repeat
+C1139,Pooja Iyer,Consumer,North,Low Value,One-time
+C1140,Sneha Kulkarni,Home Office,South,Medium Value,Repeat
+C1142,Meera Khan,Consumer,East,High Value,Repeat
+C1143,Suresh Iyer,Corporate,South,Medium Value,Repeat
+C1144,Pooja Kulkarni,Consumer,Central,Low Value,One-time
+C1147,Vikram Das,Consumer,East,Low Value,One-time
+C1149,Rahul Gupta,Corporate,West,Low Value,One-time
+C1150,Priya Mehta,Corporate,South,High Value,Repeat
+C1152,Sneha Gupta,Corporate,Central,Medium Value,One-time
+C1154,Kavya Iyer,Consumer,West,Medium Value,Repeat
+C1155,Aarav Nair,Corporate,Central,High Value,Repeat
+C1156,Anita Joshi,Home Office,West,Low Value,One-time
+C1157,Rohan Reddy,Corporate,West,Medium Value,Repeat
+C1158,Suresh Patil,Corporate,West,Medium Value,Repeat
+C1159,Divya Mehta,Consumer,East,High Value,Repeat
+C1160,Rohan Iyer,Corporate,South,Medium Value,Repeat
+C1161,Aarav Kulkarni,Home Office,South,High Value,Repeat
+C1162,Pooja Singh,Consumer,West,High Value,Repeat
+C1163,Aarav Patil,Consumer,South,Medium Value,Repeat
+C1164,Priya Nair,Consumer,South,Low Value,One-time
+C1167,Anita Joshi,Consumer,North,Low Value,Repeat
+C1168,Divya Gupta,Consumer,West,Medium Value,Repeat
+C1170,Vikram Iyer,Corporate,North,Medium Value,Repeat
+C1171,Pooja Nair,Corporate,North,Low Value,One-time
+C1172,Anita Kulkarni,Corporate,South,Medium Value,One-time
+C1173,Kavya Khan,Corporate,West,Low Value,One-time
+C1175,Suresh Sharma,Corporate,North,Medium Value,Repeat
+C1176,Rahul Singh,Consumer,West,High Value,Repeat
+C1177,Vikram Patil,Corporate,North,Low Value,One-time
+C1178,Aarav Mehta,Consumer,South,High Value,Repeat
+C1179,Pooja Patil,Consumer,Central,High Value,Repeat
+C1180,Vikram Khan,Consumer,North,Medium Value,Repeat
+C1181,Suresh Mehta,Home Office,North,Medium Value,Repeat
+C1182,Amit Khan,Corporate,South,Low Value,Repeat
+C1183,Rohan Singh,Consumer,East,High Value,Repeat
+C1184,Neha Nair,Corporate,Central,Medium Value,One-time
+C1185,Aarav Mehta,Consumer,Central,Medium Value,Repeat
+C1186,Priya Mehta,Corporate,North,Medium Value,Repeat
+C1187,Neha Patil,Corporate,North,Low Value,One-time
+C1188,Rohan Patil,Corporate,West,High Value,Repeat
+C1189,Meera Kulkarni,Corporate,South,Medium Value,Repeat
+C1190,Priya Reddy,Consumer,West,High Value,Repeat
+C1192,Rahul Das,Home Office,North,High Value,Repeat
+C1193,Arjun Joshi,Corporate,West,Medium Value,Repeat
+C1194,Anita Kulkarni,Consumer,North,Medium Value,Repeat
+C1195,Arjun Iyer,Consumer,South,Medium Value,Repeat
+C1196,Pooja Kulkarni,Consumer,East,Medium Value,Repeat
+C1197,Kavya Sharma,Consumer,East,Low Value,Repeat
+C1198,Meera Khan,Consumer,West,High Value,Repeat
+C1199,Rahul Joshi,Consumer,West,Low Value,One-time
+C1200,Neha Patil,Home Office,Central,Low Value,One-time
+C1202,Divya Das,Consumer,East,Medium Value,Repeat
+C1203,Aarav Kulkarni,Consumer,North,High Value,Repeat
+C1204,Rahul Joshi,Consumer,West,Medium Value,One-time
+C1205,Rahul Kulkarni,Corporate,Central,Medium Value,Repeat
+C1206,Divya Nair,Consumer,South,High Value,Repeat
+C1207,Rohan Das,Corporate,South,Medium Value,Repeat
+C1208,Karan Nair,Corporate,South,Medium Value,Repeat
+C1209,Neha Sharma,Consumer,North,Low Value,Repeat
+C1210,Karan Patil,Corporate,West,Medium Value,Repeat
+C1211,Vikram Nair,Home Office,South,Medium Value,One-time
+C1214,Anita Khan,Home Office,West,High Value,Repeat
+C1215,Amit Joshi,Home Office,South,Medium Value,Repeat
+C1216,Suresh Gupta,Consumer,South,Medium Value,Repeat
+C1217,Amit Joshi,Corporate,West,Medium Value,Repeat
+C1219,Priya Reddy,Corporate,East,High Value,Repeat
+C1220,Suresh Das,Consumer,Central,Medium Value,Repeat
+C1221,Priya Joshi,Consumer,North,High Value,Repeat
+C1222,Pooja Gupta,Corporate,West,Medium Value,Repeat
+C1223,Vikram Das,Home Office,North,Medium Value,Repeat
+C1224,Arjun Singh,Corporate,North,High Value,Repeat
+C1225,Vikram Singh,Consumer,East,High Value,One-time
+C1226,Pooja Mehta,Consumer,North,Medium Value,Repeat
+C1227,Neha Nair,Home Office,North,Medium Value,Repeat
+C1228,Pooja Patil,Home Office,North,High Value,Repeat
+C1229,Suresh Sharma,Consumer,South,Medium Value,Repeat
+C1231,Anita Patil,Consumer,North,High Value,Repeat
+C1232,Sneha Nair,Consumer,West,High Value,One-time
+C1233,Anita Iyer,Consumer,West,Medium Value,Repeat
+C1234,Suresh Patil,Consumer,North,Low Value,Repeat
+C1237,Rahul Iyer,Consumer,West,High Value,Repeat
+C1239,Kavya Patil,Consumer,West,High Value,Repeat
+C1240,Arjun Sharma,Consumer,North,High Value,Repeat
+C1241,Divya Sharma,Consumer,South,High Value,Repeat
+C1242,Sneha Singh,Corporate,West,High Value,Repeat
+C1243,Neha Sharma,Consumer,South,Low Value,One-time
+C1246,Amit Reddy,Consumer,West,Medium Value,Repeat
+C1247,Neha Iyer,Home Office,South,Medium Value,Repeat
+C1248,Pooja Khan,Home Office,South,Medium Value,Repeat
+C1249,Divya Gupta,Corporate,North,High Value,Repeat
+C1250,Amit Gupta,Corporate,North,Medium Value,Repeat
+C1251,Unknown,Corporate,West,Low Value,One-time
+C1252,Kavya Singh,Corporate,North,Low Value,One-time
+C1253,Suresh Singh,Corporate,North,Medium Value,Repeat
+C1254,Sneha Singh,Consumer,North,Medium Value,Repeat
+C1255,Karan Khan,Home Office,North,Medium Value,Repeat
+C1256,Pooja Reddy,Corporate,West,Medium Value,Repeat
+C1257,Vikram Sharma,Corporate,South,Medium Value,Repeat
+C1258,Aarav Reddy,Consumer,Central,High Value,Repeat
+C1259,Suresh Khan,Consumer,North,Medium Value,Repeat
+C1260,Suresh Patil,Consumer,West,Medium Value,Repeat
+C1263,Rohan Kulkarni,Consumer,West,Medium Value,Repeat
+C1264,Divya Patil,Consumer,Central,High Value,Repeat
+C1265,Neha Gupta,Consumer,West,High Value,Repeat
+C1266,Amit Gupta,Consumer,North,High Value,Repeat
+C1267,Sneha Kulkarni,Home Office,South,Medium Value,Repeat
+C1268,Anita Nair,Consumer,West,Low Value,One-time
+C1269,Meera Nair,Consumer,South,High Value,Repeat
+C1270,Karan Joshi,Consumer,West,Medium Value,One-time
+C1272,Divya Patil,Consumer,East,High Value,Repeat
+C1273,Neha Khan,Corporate,West,Medium Value,Repeat
+C1274,Anita Khan,Home Office,West,High Value,Repeat
+C1276,Neha Das,Corporate,North,Medium Value,Repeat
+C1277,Amit Reddy,Consumer,East,High Value,Repeat
+C1278,Karan Joshi,Consumer,East,High Value,Repeat
+C1279,Sneha Iyer,Consumer,South,Low Value,One-time
+C1280,Aarav Patil,Consumer,South,Medium Value,Repeat
+C1281,Rohan Das,Corporate,West,Medium Value,Repeat
+C1282,Rahul Das,Corporate,West,Low Value,Repeat
+C1283,Meera Singh,Corporate,East,Medium Value,Repeat
+C1284,Anita Reddy,Consumer,South,Medium Value,Repeat
+C1285,Arjun Reddy,Corporate,South,High Value,Repeat
+C1286,Divya Iyer,Consumer,East,Medium Value,Repeat
+C1287,Rohan Reddy,Consumer,South,Medium Value,Repeat
+C1288,Rahul Mehta,Consumer,East,Medium Value,One-time
+C1289,Sneha Iyer,Corporate,West,Low Value,Repeat
+C1290,Amit Kulkarni,Home Office,North,High Value,Repeat
+C1291,Karan Gupta,Consumer,North,Low Value,One-time
+C1292,Neha Das,Corporate,North,Low Value,Repeat
+C1294,Kavya Khan,Corporate,West,Medium Value,Repeat
+C1295,Pooja Gupta,Consumer,North,High Value,Repeat
+C1296,Kavya Joshi,Consumer,Central,Medium Value,One-time
+C1297,Sneha Nair,Corporate,South,Low Value,Repeat
+C1298,Arjun Khan,Home Office,East,High Value,Repeat
+C1299,Amit Joshi,Consumer,Central,Medium Value,Repeat
+C1300,Priya Iyer,Home Office,North,Medium Value,Repeat
+C1301,Rahul Mehta,Consumer,North,High Value,Repeat
+C1302,Aarav Singh,Corporate,East,Low Value,One-time
+C1303,Meera Mehta,Consumer,North,Low Value,One-time
+C1304,Arjun Gupta,Consumer,West,Medium Value,Repeat
+C1305,Suresh Patil,Consumer,North,High Value,Repeat
+C1306,Pooja Joshi,Consumer,North,Medium Value,Repeat
+C1308,Unknown,Consumer,South,Medium Value,One-time
+C1309,Meera Patil,Consumer,North,Low Value,Repeat
+C1310,Arjun Kulkarni,Consumer,North,Low Value,Repeat
+C1311,Divya Patil,Corporate,West,Low Value,One-time
+C1312,Pooja Kulkarni,Home Office,South,Medium Value,Repeat
+C1313,Rahul Nair,Corporate,South,High Value,One-time
+C1314,Rohan Joshi,Consumer,North,Medium Value,Repeat
+C1315,Kavya Nair,Consumer,South,High Value,Repeat
+C1316,Pooja Nair,Home Office,South,Medium Value,Repeat
+C1317,Suresh Kulkarni,Consumer,East,High Value,Repeat
+C1318,Priya Iyer,Consumer,North,High Value,Repeat
+C1319,Divya Joshi,Home Office,West,High Value,Repeat
+C1320,Aarav Patil,Home Office,Central,High Value,Repeat
+C1321,Arjun Joshi,Consumer,North,Medium Value,Repeat
+C1322,Rahul Singh,Corporate,North,Medium Value,Repeat
+C1323,Rahul Khan,Consumer,North,Medium Value,Repeat
+C1324,Aarav Khan,Corporate,East,Medium Value,One-time
+C1326,Karan Khan,Consumer,West,Medium Value,Repeat
+C1328,Suresh Nair,Consumer,West,Medium Value,Repeat
+C1329,Arjun Das,Corporate,East,Low Value,One-time
+C1330,Sneha Joshi,Consumer,Central,Low Value,Repeat
+C1331,Rahul Kulkarni,Home Office,North,Low Value,Repeat
+C1332,Neha Patil,Corporate,South,Low Value,One-time
+C1335,Kavya Joshi,Consumer,East,Medium Value,Repeat
+C1336,Divya Das,Consumer,West,Low Value,One-time
+C1337,Suresh Nair,Consumer,North,High Value,Repeat
+C1339,Divya Reddy,Corporate,East,Medium Value,One-time
+C1341,Neha Nair,Home Office,Central,Medium Value,Repeat
+C1342,Karan Iyer,Home Office,South,High Value,One-time
+C1343,Amit Reddy,Consumer,South,Low Value,Repeat
+C1344,Arjun Iyer,Home Office,East,Medium Value,One-time
+C1345,Anita Patil,Corporate,North,Low Value,Repeat
+C1346,Pooja Patil,Consumer,South,Medium Value,One-time
+C1347,Priya Kulkarni,Corporate,North,High Value,Repeat
+C1348,Arjun Das,Consumer,North,Medium Value,Repeat
+C1349,Divya Reddy,Consumer,West,High Value,Repeat
+C1350,Rahul Mehta,Consumer,East,Low Value,Repeat
+C1352,Pooja Kulkarni,Consumer,South,Medium Value,Repeat
+C1354,Meera Das,Corporate,West,High Value,Repeat
+C1355,Rahul Reddy,Consumer,Central,Medium Value,Repeat
+C1356,Karan Kulkarni,Consumer,Central,Low Value,One-time
+C1357,Aarav Mehta,Consumer,South,Medium Value,Repeat
+C1358,Neha Kulkarni,Consumer,South,Medium Value,One-time
+C1360,Vikram Gupta,Consumer,East,Low Value,One-time
+C1361,Suresh Joshi,Corporate,South,High Value,Repeat
+C1362,Priya Patil,Corporate,West,Medium Value,Repeat
+C1364,Aarav Mehta,Home Office,South,Medium Value,Repeat
+C1365,Arjun Sharma,Consumer,South,High Value,Repeat
+C1366,Priya Das,Home Office,South,Medium Value,Repeat
+C1369,Pooja Das,Corporate,West,Low Value,One-time
+C1370,Anita Das,Corporate,South,Medium Value,One-time
+C1371,Aarav Iyer,Home Office,North,High Value,Repeat
+C1372,Arjun Kulkarni,Consumer,East,Low Value,One-time
+C1373,Divya Nair,Corporate,West,Medium Value,One-time
+C1374,Arjun Patil,Corporate,South,Medium Value,One-time
+C1375,Rohan Kulkarni,Consumer,West,Low Value,One-time
+C1376,Aarav Gupta,Home Office,Central,Low Value,One-time
+C1377,Unknown,Consumer,East,Low Value,One-time
+C1378,Amit Gupta,Corporate,West,Medium Value,Repeat
+C1380,Karan Kulkarni,Consumer,Central,High Value,Repeat
+C1381,Aarav Joshi,Corporate,South,Low Value,One-time
+C1382,Rahul Joshi,Consumer,Central,Medium Value,Repeat
+C1384,Karan Gupta,Consumer,North,Medium Value,Repeat
+C1385,Neha Sharma,Consumer,North,Low Value,One-time
+C1386,Sneha Singh,Corporate,West,Medium Value,Repeat
+C1387,Kavya Patil,Home Office,East,Medium Value,Repeat
+C1389,Amit Singh,Corporate,West,High Value,Repeat
+C1390,Aarav Gupta,Consumer,West,High Value,One-time
+C1391,Vikram Joshi,Corporate,East,Medium Value,Repeat
+C1392,Suresh Sharma,Consumer,South,Medium Value,Repeat
+C1393,Aarav Sharma,Consumer,North,Medium Value,Repeat
+C1394,Rahul Sharma,Consumer,West,Low Value,Repeat
+C1395,Neha Joshi,Corporate,South,Medium Value,Repeat
+C1396,Pooja Nair,Consumer,West,Medium Value,Repeat
+C1397,Pooja Singh,Consumer,South,Low Value,One-time
+C1398,Vikram Gupta,Corporate,East,Low Value,One-time
+C1399,Sneha Sharma,Corporate,South,Low Value,One-time
+C1400,Karan Nair,Consumer,North,Medium Value,Repeat
+C1401,Pooja Kulkarni,Corporate,West,Medium Value,Repeat
+C1402,Priya Nair,Home Office,East,Medium Value,Repeat
+C1404,Neha Gupta,Corporate,Central,Medium Value,Repeat
+C1405,Kavya Sharma,Consumer,Central,Medium Value,One-time
+C1406,Kavya Singh,Corporate,West,High Value,Repeat
+C1409,Arjun Mehta,Consumer,West,Medium Value,Repeat
+C1410,Arjun Joshi,Consumer,South,Low Value,One-time
+C1411,Priya Gupta,Home Office,North,Medium Value,Repeat
+C1412,Kavya Patil,Consumer,West,Medium Value,Repeat
+C1413,Neha Mehta,Home Office,East,High Value,Repeat
+C1414,Aarav Singh,Home Office,East,Low Value,One-time
+C1415,Aarav Iyer,Home Office,Central,Low Value,Repeat
+C1417,Arjun Kulkarni,Corporate,South,Medium Value,Repeat
+C1418,Divya Joshi,Consumer,South,Medium Value,Repeat
+C1419,Arjun Sharma,Consumer,South,Low Value,One-time
+C1420,Priya Joshi,Home Office,North,Medium Value,Repeat
+C1421,Aarav Sharma,Corporate,West,High Value,Repeat
+C1422,Sneha Gupta,Consumer,West,Medium Value,One-time
+C1424,Rohan Singh,Corporate,South,Medium Value,Repeat
+C1425,Anita Patil,Corporate,West,Medium Value,Repeat
+C1426,Amit Singh,Consumer,North,High Value,Repeat
+C1427,Rohan Kulkarni,Home Office,East,Low Value,One-time
+C1428,Meera Das,Consumer,South,Medium Value,Repeat
+C1430,Vikram Joshi,Corporate,North,Low Value,One-time
+C1431,Neha Khan,Home Office,West,Medium Value,Repeat
+C1432,Kavya Patil,Consumer,South,High Value,Repeat
+C1433,Sneha Kulkarni,Consumer,East,Medium Value,One-time
+C1435,Rohan Khan,Home Office,South,High Value,Repeat
+C1436,Arjun Mehta,Consumer,East,Medium Value,Repeat
+C1437,Vikram Joshi,Consumer,North,High Value,Repeat
+C1438,Kavya Kulkarni,Home Office,North,Low Value,One-time
+C1439,Rahul Patil,Consumer,North,Low Value,Repeat
+C1440,Kavya Khan,Corporate,South,Medium Value,Repeat
+C1441,Divya Reddy,Consumer,North,Medium Value,Repeat
+C1442,Unknown,Corporate,Central,Medium Value,One-time
+C1443,Rahul Patil,Consumer,South,High Value,Repeat
+C1444,Pooja Patil,Consumer,West,Low Value,One-time
+C1446,Priya Iyer,Corporate,North,Medium Value,One-time
+C1447,Meera Das,Corporate,West,Medium Value,Repeat
+C1448,Amit Joshi,Consumer,West,Medium Value,Repeat
+C1449,Rohan Joshi,Consumer,West,Medium Value,Repeat
+C1450,Pooja Reddy,Home Office,South,Medium Value,Repeat
+C1452,Neha Singh,Consumer,North,Medium Value,Repeat
+C1453,Pooja Joshi,Corporate,East,Medium Value,One-time
+C1454,Meera Iyer,Consumer,Central,High Value,Repeat
+C1456,Vikram Das,Consumer,North,Low Value,One-time
+C1458,Rahul Singh,Consumer,South,Medium Value,Repeat
+C1459,Priya Khan,Corporate,Central,Medium Value,Repeat
+C1462,Arjun Joshi,Consumer,West,Low Value,One-time
+C1463,Meera Joshi,Consumer,North,Low Value,Repeat
+C1464,Meera Iyer,Corporate,North,Medium Value,Repeat
+C1468,Arjun Joshi,Consumer,Central,Medium Value,Repeat
+C1469,Arjun Reddy,Consumer,East,High Value,Repeat
+C1470,Pooja Khan,Consumer,South,Medium Value,Repeat
+C1471,Amit Mehta,Consumer,South,High Value,Repeat
+C1472,Arjun Gupta,Corporate,North,High Value,Repeat
+C1473,Rahul Kulkarni,Corporate,Central,Low Value,One-time
+C1474,Neha Khan,Consumer,South,High Value,Repeat
+C1475,Divya Khan,Home Office,North,High Value,Repeat
+C1476,Vikram Nair,Corporate,South,Medium Value,Repeat
+C1477,Sneha Iyer,Home Office,Central,Medium Value,One-time
+C1478,Arjun Gupta,Corporate,North,Medium Value,One-time
+C1480,Aarav Patil,Consumer,West,Medium Value,Repeat
+C1482,Neha Gupta,Home Office,Central,Medium Value,One-time
+C1483,Neha Sharma,Consumer,West,Low Value,Repeat
+C1484,Priya Iyer,Consumer,Central,Low Value,One-time
+C1485,Meera Reddy,Consumer,North,Low Value,Repeat
+C1487,Divya Iyer,Consumer,East,High Value,Repeat
+C1488,Priya Mehta,Corporate,East,Medium Value,Repeat
+C1489,Suresh Sharma,Corporate,Central,Low Value,One-time
+C1490,Rohan Nair,Home Office,Central,Low Value,Repeat
+C1491,Divya Gupta,Consumer,West,High Value,Repeat
+C1492,Rohan Reddy,Corporate,East,Low Value,One-time
+C1493,Divya Patil,Home Office,South,Medium Value,Repeat
+C1494,Sneha Joshi,Consumer,South,High Value,Repeat
+C1495,Karan Patil,Corporate,South,Medium Value,Repeat
+C1496,Arjun Reddy,Consumer,South,Medium Value,Repeat
+C1497,Arjun Kulkarni,Corporate,North,Low Value,One-time
+C1498,Priya Kulkarni,Consumer,North,High Value,Repeat
+C1499,Kavya Nair,Consumer,West,Low Value,One-time
+C1501,Amit Mehta,Consumer,Central,Low Value,Repeat
+C1502,Rahul Mehta,Consumer,East,Medium Value,Repeat
+C1503,Amit Reddy,Corporate,North,Medium Value,Repeat
+C1504,Suresh Joshi,Consumer,North,Medium Value,Repeat
+C1505,Anita Sharma,Consumer,North,Low Value,Repeat
+C1506,Karan Singh,Corporate,Central,Medium Value,Repeat
+C1508,Kavya Patil,Consumer,East,Medium Value,Repeat
+C1509,Divya Patil,Home Office,Central,Low Value,One-time
+C1510,Rohan Gupta,Consumer,Central,High Value,Repeat
+C1511,Suresh Kulkarni,Corporate,South,Medium Value,Repeat
+C1512,Pooja Khan,Consumer,North,Medium Value,Repeat
+C1513,Sneha Gupta,Corporate,North,Low Value,One-time
+C1514,Amit Kulkarni,Home Office,North,Medium Value,Repeat
+C1515,Karan Patil,Corporate,North,Low Value,One-time
+C1516,Arjun Das,Corporate,East,High Value,Repeat
+C1518,Anita Sharma,Consumer,East,Medium Value,Repeat
+C1519,Neha Nair,Corporate,West,High Value,Repeat
+C1520,Aarav Das,Corporate,North,Medium Value,Repeat
+C1521,Kavya Das,Home Office,West,Medium Value,Repeat
+C1522,Suresh Patil,Consumer,East,High Value,Repeat
+C1523,Vikram Singh,Consumer,West,Medium Value,Repeat
+C1524,Sneha Gupta,Corporate,Central,Medium Value,Repeat
+C1525,Pooja Sharma,Consumer,South,Medium Value,Repeat
+C1526,Karan Singh,Consumer,North,Medium Value,Repeat
+C1527,Sneha Iyer,Consumer,South,Medium Value,One-time
+C1528,Sneha Das,Corporate,South,High Value,Repeat
+C1529,Pooja Joshi,Consumer,Central,Medium Value,Repeat
+C1530,Divya Das,Consumer,South,High Value,Repeat
+C1531,Aarav Patil,Consumer,West,High Value,Repeat
+C1533,Neha Gupta,Corporate,North,High Value,Repeat
+C1534,Neha Joshi,Consumer,South,Medium Value,One-time
+C1535,Arjun Joshi,Consumer,West,Medium Value,Repeat
+C1536,Rohan Mehta,Corporate,West,Low Value,Repeat
+C1537,Amit Nair,Consumer,South,Medium Value,One-time
+C1538,Meera Sharma,Corporate,South,Low Value,Repeat
+C1539,Divya Reddy,Consumer,West,High Value,Repeat
+C1540,Divya Khan,Home Office,North,Low Value,Repeat
+C1541,Suresh Reddy,Consumer,Central,Low Value,One-time
+C1542,Suresh Gupta,Corporate,North,Medium Value,Repeat
+C1543,Anita Das,Consumer,North,Low Value,Repeat
+C1544,Arjun Nair,Home Office,East,High Value,Repeat
+C1546,Anita Khan,Corporate,East,Low Value,Repeat
+C1547,Rohan Gupta,Consumer,South,Medium Value,One-time
+C1548,Vikram Joshi,Consumer,Central,Low Value,One-time
+C1549,Priya Gupta,Corporate,East,High Value,One-time
+C1550,Rohan Reddy,Corporate,East,Medium Value,Repeat
+C1551,Meera Das,Consumer,South,Medium Value,Repeat
+C1552,Neha Khan,Consumer,North,Medium Value,Repeat
+C1553,Arjun Patil,Consumer,East,Low Value,One-time
+C1554,Aarav Reddy,Corporate,South,Low Value,One-time
+C1555,Pooja Kulkarni,Corporate,West,Low Value,One-time
+C1556,Karan Joshi,Corporate,North,Medium Value,Repeat
+C1557,Rohan Singh,Corporate,Central,High Value,Repeat
+C1559,Anita Singh,Consumer,Central,Medium Value,Repeat
+C1560,Vikram Sharma,Consumer,East,Medium Value,One-time
+C1562,Divya Das,Consumer,West,High Value,Repeat
+C1563,Rohan Iyer,Consumer,West,Medium Value,Repeat
+C1564,Rahul Joshi,Consumer,West,Low Value,Repeat
+C1565,Meera Sharma,Consumer,South,Low Value,Repeat
+C1566,Rohan Iyer,Corporate,West,Medium Value,Repeat
+C1567,Rahul Mehta,Consumer,West,Medium Value,Repeat
+C1568,Arjun Joshi,Consumer,West,High Value,Repeat
+C1569,Divya Kulkarni,Corporate,South,High Value,Repeat
+C1570,Amit Joshi,Consumer,West,Medium Value,Repeat
+C1571,Suresh Das,Consumer,West,High Value,Repeat
+C1572,Pooja Nair,Consumer,Central,High Value,Repeat
+C1573,Karan Gupta,Corporate,South,Low Value,One-time
+C1574,Arjun Mehta,Consumer,South,Medium Value,Repeat
+C1575,Vikram Kulkarni,Corporate,West,Medium Value,Repeat
+C1576,Meera Nair,Home Office,East,Low Value,One-time
+C1577,Kavya Gupta,Corporate,West,Medium Value,Repeat
+C1578,Priya Patil,Consumer,South,High Value,Repeat
+C1580,Amit Das,Consumer,West,Medium Value,Repeat
+C1581,Karan Khan,Consumer,North,Medium Value,Repeat
+C1582,Pooja Joshi,Consumer,North,High Value,Repeat
+C1583,Rohan Kulkarni,Consumer,West,Medium Value,One-time
+C1585,Rahul Iyer,Consumer,Central,Medium Value,Repeat
+C1587,Pooja Mehta,Consumer,North,Medium Value,Repeat
+C1588,Karan Reddy,Corporate,Central,Low Value,One-time
+C1589,Aarav Patil,Home Office,North,Low Value,One-time
+C1590,Vikram Sharma,Consumer,North,Medium Value,Repeat
+C1592,Pooja Das,Consumer,East,Medium Value,Repeat
+C1593,Suresh Kulkarni,Consumer,West,Medium Value,Repeat
+C1594,Neha Das,Consumer,West,Medium Value,Repeat
+C1596,Sneha Reddy,Consumer,North,Low Value,One-time
+C1597,Priya Nair,Consumer,South,Medium Value,Repeat
+C1598,Karan Patil,Consumer,East,Medium Value,Repeat
+C1600,Arjun Nair,Consumer,South,Medium Value,One-time
+C1601,Vikram Kulkarni,Consumer,South,Medium Value,Repeat
+C1602,Kavya Nair,Consumer,North,Medium Value,Repeat
+C1603,Sneha Sharma,Consumer,East,High Value,Repeat
+C1604,Aarav Reddy,Consumer,West,High Value,Repeat
+C1605,Pooja Sharma,Consumer,North,Medium Value,Repeat
+C1606,Anita Patil,Consumer,East,Medium Value,Repeat
+C1607,Suresh Mehta,Consumer,West,Medium Value,One-time
+C1608,Amit Mehta,Home Office,West,Medium Value,Repeat
+C1609,Karan Nair,Consumer,West,Medium Value,Repeat
+C1610,Aarav Gupta,Consumer,South,High Value,Repeat
+C1611,Divya Mehta,Consumer,West,Medium Value,Repeat
+C1613,Rohan Sharma,Corporate,South,Medium Value,Repeat
+C1614,Suresh Singh,Corporate,North,Medium Value,Repeat
+C1615,Priya Joshi,Home Office,South,High Value,Repeat
+C1616,Sneha Gupta,Consumer,South,Low Value,Repeat
+C1617,Kavya Sharma,Home Office,South,Medium Value,Repeat
+C1618,Pooja Khan,Consumer,West,Low Value,Repeat
+C1619,Vikram Mehta,Corporate,South,High Value,One-time
+C1620,Arjun Sharma,Consumer,South,High Value,One-time
+C1621,Amit Reddy,Consumer,North,Medium Value,Repeat
+C1622,Divya Gupta,Home Office,South,Medium Value,Repeat
+C1623,Meera Mehta,Consumer,South,Low Value,Repeat
+C1624,Vikram Singh,Home Office,South,Low Value,One-time
+C1625,Rohan Gupta,Consumer,South,High Value,Repeat
+C1626,Arjun Reddy,Corporate,West,Medium Value,One-time
+C1627,Amit Gupta,Home Office,Central,Medium Value,One-time
+C1628,Suresh Iyer,Consumer,East,Medium Value,Repeat
+C1629,Divya Joshi,Home Office,West,Low Value,Repeat
+C1630,Kavya Reddy,Corporate,West,Medium Value,One-time
+C1631,Priya Iyer,Corporate,Central,Medium Value,Repeat
+C1632,Arjun Gupta,Consumer,East,Low Value,One-time
+C1633,Neha Singh,Consumer,West,Low Value,One-time
+C1634,Karan Patil,Corporate,Central,High Value,Repeat
+C1636,Kavya Mehta,Consumer,South,Medium Value,Repeat
+C1637,Rohan Nair,Consumer,North,High Value,Repeat
+C1638,Arjun Kulkarni,Home Office,North,Medium Value,Repeat
+C1639,Karan Iyer,Consumer,East,Medium Value,Repeat
+C1640,Amit Reddy,Corporate,East,High Value,Repeat
+C1641,Arjun Patil,Home Office,South,Low Value,One-time
+C1642,Priya Khan,Consumer,East,High Value,Repeat
+C1644,Neha Mehta,Corporate,West,Low Value,Repeat
+C1647,Kavya Gupta,Corporate,West,High Value,Repeat
+C1648,Sneha Das,Corporate,West,Medium Value,Repeat
+C1649,Anita Patil,Consumer,Central,Medium Value,Repeat
+C1650,Priya Reddy,Corporate,West,Medium Value,One-time
+C1651,Priya Sharma,Corporate,West,High Value,Repeat
+C1652,Anita Singh,Consumer,South,High Value,Repeat
+C1654,Vikram Das,Home Office,South,Low Value,Repeat
+C1656,Suresh Reddy,Consumer,Central,Medium Value,Repeat
+C1658,Suresh Kulkarni,Consumer,East,High Value,Repeat
+C1659,Pooja Nair,Consumer,South,Medium Value,One-time
+C1660,Arjun Khan,Consumer,North,Medium Value,Repeat
+C1661,Pooja Iyer,Home Office,North,High Value,Repeat
+C1662,Anita Gupta,Consumer,North,Medium Value,Repeat
+C1663,Rohan Singh,Corporate,Central,High Value,Repeat
+C1664,Arjun Iyer,Consumer,South,High Value,Repeat
+C1665,Suresh Gupta,Consumer,West,Low Value,One-time
+C1666,Vikram Khan,Consumer,West,Low Value,One-time
+C1667,Pooja Mehta,Consumer,North,Medium Value,One-time
+C1668,Sneha Joshi,Corporate,North,Medium Value,One-time
+C1670,Aarav Iyer,Home Office,South,Medium Value,Repeat
+C1671,Neha Singh,Consumer,Central,Medium Value,Repeat
+C1673,Rahul Patil,Consumer,West,Medium Value,One-time
+C1674,Anita Gupta,Home Office,West,High Value,Repeat
+C1675,Aarav Iyer,Consumer,South,Medium Value,Repeat
+C1676,Aarav Khan,Consumer,South,High Value,Repeat
+C1677,Vikram Nair,Consumer,Central,High Value,Repeat
+C1678,Meera Nair,Consumer,South,Medium Value,Repeat
+C1680,Neha Das,Home Office,South,Medium Value,Repeat
+C1681,Pooja Kulkarni,Corporate,South,Medium Value,Repeat
+C1682,Meera Mehta,Home Office,West,Medium Value,Repeat
+C1683,Vikram Nair,Consumer,West,Medium Value,Repeat
+C1684,Karan Gupta,Corporate,South,High Value,Repeat
+C1685,Vikram Nair,Consumer,West,Low Value,One-time
+C1686,Kavya Singh,Consumer,North,Low Value,Repeat
+C1687,Rahul Khan,Consumer,North,High Value,Repeat
+C1688,Anita Patil,Consumer,East,Low Value,One-time
+C1689,Rohan Joshi,Corporate,Central,Medium Value,Repeat
+C1690,Anita Kulkarni,Consumer,North,High Value,Repeat
+C1691,Amit Khan,Consumer,North,Low Value,One-time
+C1692,Suresh Das,Corporate,East,Medium Value,One-time
+C1693,Rahul Sharma,Consumer,West,Medium Value,One-time
+C1694,Pooja Kulkarni,Home Office,North,Medium Value,Repeat
+C1695,Divya Patil,Consumer,South,Low Value,One-time
+C1696,Vikram Sharma,Corporate,West,High Value,Repeat
+C1697,Aarav Singh,Corporate,South,Low Value,One-time
+C1698,Meera Sharma,Corporate,North,Medium Value,One-time
+C1699,Pooja Das,Corporate,North,High Value,Repeat
+C1700,Unknown,Home Office,South,Low Value,One-time
+C1701,Amit Iyer,Corporate,East,Medium Value,One-time
+C1702,Aarav Sharma,Consumer,West,Low Value,One-time
+C1703,Neha Patil,Consumer,West,Low Value,Repeat
+C1705,Amit Sharma,Consumer,Central,High Value,Repeat
+C1706,Suresh Mehta,Consumer,South,Low Value,Repeat
+C1708,Pooja Iyer,Consumer,Central,Medium Value,Repeat
+C1710,Sneha Reddy,Corporate,West,Medium Value,Repeat
+C1712,Vikram Patil,Corporate,North,Medium Value,Repeat
+C1713,Rohan Gupta,Consumer,South,Medium Value,Repeat
+C1714,Rahul Sharma,Consumer,North,Medium Value,One-time
+C1716,Vikram Das,Consumer,South,High Value,Repeat
+C1717,Aarav Iyer,Corporate,South,Medium Value,Repeat
+C1718,Rohan Das,Consumer,West,Medium Value,Repeat
+C1719,Arjun Nair,Home Office,Central,Low Value,One-time
+C1720,Kavya Gupta,Consumer,West,Medium Value,Repeat
+C1721,Arjun Iyer,Corporate,South,Medium Value,Repeat
+C1723,Meera Singh,Consumer,South,Medium Value,Repeat
+C1724,Suresh Das,Corporate,North,Medium Value,Repeat
+C1725,Neha Mehta,Consumer,Central,Medium Value,Repeat
+C1726,Anita Singh,Corporate,South,Medium Value,Repeat
+C1727,Divya Iyer,Corporate,South,Medium Value,One-time
+C1729,Kavya Sharma,Consumer,South,Low Value,One-time
+C1730,Kavya Das,Corporate,North,Low Value,One-time
+C1731,Neha Mehta,Consumer,North,Low Value,One-time
+C1734,Anita Patil,Corporate,North,High Value,One-time
+C1735,Aarav Kulkarni,Consumer,Central,Low Value,One-time
+C1736,Priya Sharma,Corporate,West,Medium Value,Repeat
+C1737,Suresh Singh,Home Office,West,High Value,Repeat
+C1739,Rahul Patil,Consumer,North,High Value,Repeat
+C1740,Divya Joshi,Consumer,West,Low Value,Repeat
+C1741,Kavya Singh,Consumer,South,Medium Value,Repeat
+C1742,Priya Khan,Corporate,East,Medium Value,Repeat
+C1743,Sneha Joshi,Consumer,West,Medium Value,Repeat
+C1744,Karan Gupta,Corporate,North,Medium Value,Repeat
+C1745,Kavya Sharma,Consumer,West,High Value,Repeat
+C1746,Vikram Gupta,Consumer,Central,High Value,Repeat
+C1747,Arjun Joshi,Consumer,West,High Value,Repeat
+C1749,Suresh Nair,Corporate,West,Medium Value,Repeat
+C1750,Pooja Gupta,Consumer,East,Low Value,One-time
+C1751,Vikram Iyer,Corporate,West,Medium Value,Repeat
+C1752,Sneha Kulkarni,Consumer,West,Low Value,One-time
+C1753,Arjun Das,Consumer,West,Low Value,One-time
+C1756,Priya Reddy,Corporate,South,Low Value,Repeat
+C1758,Rahul Iyer,Consumer,East,High Value,Repeat
+C1759,Arjun Nair,Consumer,East,Medium Value,Repeat
+C1760,Priya Joshi,Corporate,South,High Value,Repeat
+C1761,Vikram Singh,Consumer,West,Medium Value,One-time
+C1762,Arjun Reddy,Home Office,Central,High Value,Repeat
+C1764,Neha Sharma,Consumer,West,Medium Value,Repeat
+C1765,Neha Sharma,Corporate,West,Medium Value,Repeat
+C1766,Divya Reddy,Home Office,East,High Value,Repeat
+C1767,Rohan Sharma,Consumer,North,Low Value,Repeat
+C1768,Divya Patil,Corporate,West,High Value,One-time
+C1771,Vikram Mehta,Home Office,Central,High Value,Repeat
+C1772,Neha Iyer,Consumer,Central,Low Value,One-time
+C1773,Priya Gupta,Corporate,South,Medium Value,Repeat
+C1774,Rahul Joshi,Corporate,West,Medium Value,Repeat
+C1775,Sneha Patil,Corporate,East,Low Value,One-time
+C1777,Karan Mehta,Corporate,North,Low Value,One-time
+C1778,Aarav Singh,Consumer,South,Medium Value,Repeat
+C1779,Amit Khan,Consumer,West,Medium Value,Repeat
+C1782,Suresh Sharma,Consumer,South,Medium Value,Repeat
+C1783,Arjun Kulkarni,Consumer,Central,Medium Value,Repeat
+C1784,Meera Joshi,Home Office,West,Low Value,Repeat
+C1785,Rohan Patil,Consumer,South,Medium Value,Repeat
+C1786,Meera Gupta,Consumer,West,Low Value,Repeat
+C1789,Rahul Joshi,Corporate,West,Medium Value,Repeat
+C1790,Rahul Iyer,Consumer,West,Medium Value,One-time
+C1791,Divya Sharma,Consumer,North,Low Value,One-time
+C1793,Rahul Iyer,Corporate,West,Low Value,Repeat
+C1794,Anita Joshi,Corporate,East,Low Value,Repeat
+C1795,Pooja Gupta,Home Office,East,Medium Value,One-time
+C1796,Sneha Sharma,Home Office,North,High Value,Repeat
+C1798,Rahul Singh,Corporate,West,High Value,Repeat
+C1799,Neha Gupta,Corporate,North,High Value,Repeat
+C1801,Meera Joshi,Consumer,Central,Low Value,One-time
+C1802,Rahul Khan,Consumer,North,Medium Value,Repeat
+C1803,Arjun Reddy,Corporate,West,Medium Value,Repeat
+C1804,Amit Mehta,Corporate,South,High Value,Repeat
+C1806,Amit Khan,Consumer,West,Low Value,Repeat
+C1807,Vikram Nair,Consumer,West,Medium Value,Repeat
+C1808,Divya Kulkarni,Consumer,North,Medium Value,Repeat
+C1809,Rahul Das,Consumer,East,Low Value,One-time
+C1811,Pooja Sharma,Home Office,South,Medium Value,Repeat
+C1812,Aarav Nair,Home Office,South,Medium Value,Repeat
+C1813,Anita Khan,Home Office,North,High Value,Repeat
+C1814,Rohan Reddy,Home Office,Central,Medium Value,One-time
+C1815,Pooja Patil,Consumer,West,Low Value,One-time
+C1817,Karan Reddy,Consumer,West,Medium Value,Repeat
+C1818,Rahul Mehta,Consumer,East,Medium Value,Repeat
+C1819,Kavya Patil,Consumer,East,Medium Value,One-time
+C1820,Anita Kulkarni,Consumer,South,High Value,Repeat
+C1821,Vikram Singh,Home Office,West,Medium Value,Repeat
+C1822,Karan Singh,Consumer,North,Low Value,Repeat
+C1824,Pooja Gupta,Corporate,West,Medium Value,Repeat
+C1825,Sneha Singh,Corporate,South,Low Value,One-time
+C1827,Suresh Mehta,Consumer,North,Low Value,Repeat
+C1828,Karan Gupta,Corporate,Central,High Value,Repeat
+C1829,Karan Reddy,Consumer,Central,High Value,Repeat
+C1830,Rohan Khan,Home Office,Central,High Value,Repeat
+C1831,Priya Mehta,Consumer,South,Medium Value,Repeat
+C1832,Karan Mehta,Consumer,North,Medium Value,Repeat
+C1833,Arjun Nair,Corporate,North,Medium Value,Repeat
+C1834,Pooja Khan,Corporate,North,High Value,Repeat
+C1835,Kavya Patil,Consumer,North,Medium Value,Repeat
+C1836,Amit Gupta,Corporate,North,Low Value,Repeat
+C1837,Divya Gupta,Consumer,Central,High Value,Repeat
+C1838,Neha Nair,Corporate,North,High Value,Repeat
+C1839,Arjun Patil,Consumer,North,Medium Value,Repeat
+C1840,Aarav Singh,Consumer,West,Low Value,One-time
+C1841,Rohan Mehta,Consumer,East,High Value,Repeat
+C1842,Kavya Sharma,Consumer,West,High Value,Repeat
+C1843,Sneha Kulkarni,Consumer,West,Low Value,Repeat
+C1844,Pooja Reddy,Consumer,West,Medium Value,Repeat
+C1845,Amit Mehta,Consumer,West,Low Value,One-time
+C1846,Suresh Gupta,Consumer,East,High Value,Repeat
+C1847,Karan Reddy,Consumer,West,High Value,Repeat
+C1848,Karan Iyer,Consumer,South,Low Value,Repeat
+C1849,Anita Joshi,Corporate,South,Medium Value,Repeat
+C1851,Rohan Reddy,Consumer,North,Medium Value,Repeat
+C1852,Aarav Joshi,Home Office,West,Low Value,One-time
+C1854,Arjun Das,Consumer,North,Low Value,Repeat
+C1855,Priya Singh,Corporate,South,Low Value,One-time
+C1857,Anita Reddy,Corporate,South,Low Value,One-time
+C1858,Amit Patil,Consumer,West,High Value,Repeat
+C1860,Vikram Mehta,Consumer,North,Medium Value,Repeat
+C1861,Aarav Reddy,Consumer,West,Medium Value,Repeat
+C1863,Divya Singh,Home Office,North,Medium Value,Repeat
+C1865,Kavya Nair,Corporate,Central,Medium Value,Repeat
+C1866,Meera Gupta,Corporate,South,Medium Value,Repeat
+C1867,Anita Iyer,Corporate,East,High Value,Repeat
+C1868,Kavya Singh,Corporate,South,Medium Value,One-time
+C1869,Pooja Singh,Home Office,East,Medium Value,Repeat
+C1870,Kavya Khan,Consumer,West,Medium Value,Repeat
+C1871,Aarav Das,Consumer,East,Low Value,One-time
+C1872,Kavya Iyer,Corporate,West,Medium Value,Repeat
+C1873,Rahul Sharma,Consumer,North,Medium Value,One-time
+C1875,Priya Kulkarni,Consumer,West,Medium Value,Repeat
+C1877,Karan Das,Consumer,North,High Value,Repeat
+C1878,Suresh Patil,Consumer,South,Low Value,Repeat
+C1879,Sneha Iyer,Home Office,South,Low Value,One-time
+C1881,Anita Nair,Home Office,South,High Value,Repeat
+C1882,Vikram Gupta,Home Office,South,Medium Value,Repeat
+C1883,Amit Gupta,Consumer,West,Low Value,One-time
+C1884,Priya Kulkarni,Corporate,South,Low Value,Repeat
+C1885,Meera Kulkarni,Corporate,West,Medium Value,Repeat
+C1886,Anita Kulkarni,Corporate,East,Medium Value,Repeat
+C1887,Meera Sharma,Consumer,West,Medium Value,Repeat
+C1888,Unknown,Consumer,East,Low Value,One-time
+C1889,Pooja Iyer,Consumer,East,Medium Value,Repeat
+C1890,Sneha Khan,Consumer,East,Medium Value,One-time
+C1891,Rohan Patil,Home Office,Central,High Value,Repeat
+C1892,Neha Gupta,Corporate,East,High Value,Repeat
+C1893,Divya Joshi,Corporate,East,Medium Value,Repeat
+C1894,Rohan Khan,Home Office,East,High Value,Repeat
+C1895,Arjun Patil,Corporate,West,Low Value,One-time
+C1896,Priya Iyer,Consumer,North,Medium Value,Repeat
+C1898,Priya Gupta,Consumer,East,High Value,Repeat
+Unknown,Unknown Customer,Unknown,Unknown,Unknown,Unknown
